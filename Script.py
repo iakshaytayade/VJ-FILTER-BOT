@@ -246,8 +246,6 @@ Nᴀᴍᴇ - {}"""
 
     FILE_CAPTION = """<b>{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/peloflix">𝙋𝙚𝙡𝙤𝙁𝙡𝙞𝙭</a>」</b>"""
 
-<b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
-
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
 
