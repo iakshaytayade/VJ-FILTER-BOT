@@ -244,7 +244,7 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
+    FILE_CAPTION = """<b>{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/peloflix">𝙋𝙚𝙡𝙤𝙁𝙡𝙞𝙭</a>」</b>"""
 
 <b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
 
